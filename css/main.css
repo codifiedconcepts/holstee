@@ -1,0 +1,104 @@
+/** Styles **/
+body {
+	background: url('http://s3.amazonaws.com/media.skillcrush.com/skillcrush/wp-content/uploads/2016/03/seamless-pattern-coral-turquoise-150.png') repeat 10px 10px lightseagreen;
+	font-family: sans-serif;
+    font-size: 24px;
+}
+a {
+	text-decoration: none;
+}
+.main {
+	width: 900px;
+	margin: 100px auto;
+	padding: 50px;
+	background: white;
+}
+.main p {
+	margin: 0;
+	font-family: 'Roboto Condensed', sans-serif;
+	text-transform: uppercase;
+	text-align: justify;
+    line-height: 88px;
+}
+.main .stop {
+	font-size: 38px;
+	font-weight: bold;
+	color: indianred;
+}
+.main .dont {
+	font-size: 38px;
+	font-weight: bold;
+	font-style: italic;
+	color: indianred;
+}
+.main #life {
+	font-family: 'Pacifico', 'Roboto Condensed', sans-serif;
+	font-size: 68px;
+	font-weight: bold;
+	letter-spacing: 10px;
+	color: lightseagreen;
+	padding: 0 0 0 10px;
+}
+.main #heart {
+  font-size: 98px;
+  color: indianred;
+}
+.main #emotions {
+	font-size: 38px;
+	font-weight: bold;
+	text-decoration: underline;
+	color: lightseagreen;
+	padding: 0 15px;
+}
+.main #every {
+	font-size: 38px;
+}
+.main #last {
+	font-size: 68px;
+}
+.main #bite {
+	font-size: 88px;
+	line-height: 0;
+}
+.main #open {
+	font-size: 38px;
+	letter-spacing: 30px;
+}
+.main .goals {
+	font-size: 38px;
+	font-weight: bold;
+	color: lightseagreen;
+}
+
+aside#credits {
+	float: right;
+	width: 275px;
+	margin: 30px 0 20px 35px;
+	padding: 38px 10px;
+	background: peachpuff;
+	font-family: 'Roboto Condensed', sans-serif;
+	text-align: center;
+	line-height: 32px;
+}
+aside ul {
+	list-style: none;
+	margin: 0;
+	padding: 0;
+}
+aside li {
+	padding: 20px 0;
+}
+aside #holstee {
+	font-family: 'Pacifico', 'Roboto Condensed', sans-serif;
+	font-size: 24px;
+	color: lightseagreen;
+}
+aside #me,
+aside #me a {
+	font-family: 'Pacifico', 'Roboto Condensed', sans-serif;
+	font-size: 36px;
+	color: indianred;
+}
+aside img {
+  width:120px;
+}
